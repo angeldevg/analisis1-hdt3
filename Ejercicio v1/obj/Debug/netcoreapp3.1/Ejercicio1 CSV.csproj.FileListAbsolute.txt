@@ -1,0 +1,13 @@
+C:\Users\Usuario\Desktop\Ejercicio1 CSV\obj\Debug\netcoreapp3.1\Ejercicio1 CSV.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Ejercicio1 CSV\obj\Debug\netcoreapp3.1\Ejercicio1 CSV.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Ejercicio1 CSV\obj\Debug\netcoreapp3.1\Ejercicio1 CSV.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Ejercicio1 CSV\obj\Debug\netcoreapp3.1\Ejercicio1 CSV.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Ejercicio1 CSV\bin\Debug\netcoreapp3.1\Ejercicio1 CSV.exe
+C:\Users\Usuario\Desktop\Ejercicio1 CSV\bin\Debug\netcoreapp3.1\Ejercicio1 CSV.deps.json
+C:\Users\Usuario\Desktop\Ejercicio1 CSV\bin\Debug\netcoreapp3.1\Ejercicio1 CSV.runtimeconfig.json
+C:\Users\Usuario\Desktop\Ejercicio1 CSV\bin\Debug\netcoreapp3.1\Ejercicio1 CSV.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Ejercicio1 CSV\bin\Debug\netcoreapp3.1\Ejercicio1 CSV.dll
+C:\Users\Usuario\Desktop\Ejercicio1 CSV\bin\Debug\netcoreapp3.1\Ejercicio1 CSV.pdb
+C:\Users\Usuario\Desktop\Ejercicio1 CSV\obj\Debug\netcoreapp3.1\Ejercicio1 CSV.dll
+C:\Users\Usuario\Desktop\Ejercicio1 CSV\obj\Debug\netcoreapp3.1\Ejercicio1 CSV.pdb
+C:\Users\Usuario\Desktop\Ejercicio1 CSV\obj\Debug\netcoreapp3.1\Ejercicio1 CSV.genruntimeconfig.cache
